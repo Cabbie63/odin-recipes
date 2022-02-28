@@ -1,0 +1,36 @@
+h1{
+    font-size: 36px;
+    background-color: #636970;
+    text-align: center;
+}
+
+body{
+    background-color: #252627;
+    color: #F2EFE9;
+}
+
+a{
+    color: #99855D;
+}
+
+a:hover{
+    color: #B0B8BF;
+}
+
+a:visited{
+    color: #636970;
+}
+
+h2{
+    background-color: #636970;
+    text-align: center;
+}
+
+h1, h2{
+    font-family: 'Hubballi', cursive;
+    position: relative;
+}
+
+#title-links{
+    text-align: left;
+}
